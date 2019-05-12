@@ -1,7 +1,7 @@
 body {
 	font-family: Garamond;
 	font-style: normal;
-	font-variant: normal;
+	font-variant: small-caps;
 	font-weight: 100;
 	/*background-color: #fffaf7;*/
 	background-color: #f3f3f3;
@@ -11,4 +11,13 @@ main {
 	max-width: 70ch;
 	padding: 2ch;
 	margin: auto;
+}
+
+header {
+	margin-bottom: 1.5rem;
+}
+
+h1 {
+	font-weight: 100;
+	margin-bottom: .5rem;
 }
