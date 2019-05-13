@@ -37,3 +37,11 @@ h3 {
 	font-weight:100;
 	font-size:2em;
 }
+
+p {
+	font-size: 13px;
+}
+
+.i {
+	font-style: italic;
+}
